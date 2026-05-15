@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "LEEK",
+    "slug": "leek",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "leek",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#065f46"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leek.customer"
+    },
+    "android": {
+      "package": "com.leek.customer",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#065f46"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5fdf2204-7d66-4898-8cbe-6588744465e3"
+      }
+    },
+    "owner": "walidevish-org"
+  }
+}
