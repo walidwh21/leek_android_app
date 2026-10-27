@@ -28,7 +28,7 @@ Click the preview to watch the full walkthrough (sign in → browse → product 
     <img src="./docs/demo.gif" alt="LEEK Mobile demo, click to watch the full video" width="240" />
   </a>
   <br/>
-  <sub>▶ <a href="./docs/demo.mp4"><strong>Watch the full demo (3 min)</strong></a></sub>
+  <sub>▶ <a href="https://drive.google.com/file/d/1upZWWevgoIMuV39iaLo3Io5xJgU4bw-Z/view?usp=sharing"><strong>Watch the full demo (3 min)</strong></a></sub>
 </p>
 
 ---
